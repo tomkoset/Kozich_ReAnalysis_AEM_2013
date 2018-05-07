@@ -1,8 +1,8 @@
 # README
 
-Obtain the raw 'fastq.gz'files from http://www.mothur.org/MiSeqDevelopmentData.htmlDownload them from http://www.mothur.org/MiSeqDevelopmentData.html under Stability "With genomes/metagenomes" link by running the following from project's root directory.
-Additinallu use tar xvf to unpack the .tar file, move the unpacked files into data/raw
-Remove the .tar file
+Obtained the raw 'fastq.gz' files from https://www.mothur.org/MiSeqDevelopmentData.html
+Downloaded https://www.mothur.org/MiSeqDevelopmentData/StabilityWMetaG.tar
+Ran the following from the project's root directory.
 
 ```bash
 wget https://www.mothur.org/MiSeqDevelopmentData/StabilityWMetaG.tar
