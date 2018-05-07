@@ -1,6 +1,6 @@
 # README
 
-Obtain Version 123  Silva reference files from the Mothur website: https://www.mothur.org/wiki/Silva_reference_files 
+Obtained Version 123  Silva reference files from the Mothur website: https://www.mothur.org/wiki/Silva_reference_files
 
 ```bash
 wget http://mothur.org/w/images/1/15/Silva.seed_v123.tgz
